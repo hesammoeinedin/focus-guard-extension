@@ -26,11 +26,19 @@ No more accidentally ending up on Netflix or IMDb when you're supposed to be app
 
 ## 📸 Screenshots
 
-> <img width="1326" height="722" alt="image" src="https://github.com/user-attachments/assets/68268f76-74b7-4367-a4bf-f4a6e52ac5fd" />
-<img width="353" height="442" alt="image" src="https://github.com/user-attachments/assets/db62629a-afa8-4d8f-831b-c5ad0b1f476e" />
-<img width="355" height="267" alt="image" src="https://github.com/user-attachments/assets/53ef6590-0475-4b72-8072-91cbce0dd73f" />
-<img width="352" height="518" alt="image" src="https://github.com/user-attachments/assets/3caffcbf-6d51-40af-9e01-ef43817bbf2b" />
+## 📸 Screenshots
 
+### 🚫 Blocked Screen
+![Blocked Screen](https://github.com/user-attachments/assets/68268f76-74b7-4367-a4bf-f4a6e52ac5fd)
+
+### 🎯 Focus Tab
+<img src="https://github.com/user-attachments/assets/db62629a-afa8-4d8f-831b-c5ad0b1f476e" width="360"/>
+
+### 🚫 Blocked Sites Tab
+<img src="https://github.com/user-attachments/assets/53ef6590-0475-4b72-8072-91cbce0dd73f" width="360"/>
+
+### ⚙️ Settings Tab
+<img src="https://github.com/user-attachments/assets/3caffcbf-6d51-40af-9e01-ef43817bbf2b" width="360"/>
 
 ---
 
