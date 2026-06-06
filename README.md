@@ -26,8 +26,6 @@ No more accidentally ending up on Netflix or IMDb when you're supposed to be app
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🚫 Blocked Screen
 ![Blocked Screen](https://github.com/user-attachments/assets/68268f76-74b7-4367-a4bf-f4a6e52ac5fd)
 
