@@ -46,10 +46,10 @@ Since this extension is not yet on the Chrome Web Store, you can install it manu
 - Select the unzipped `focus-guard-extension` folder
 
 **3. Get your free Gemini API key**
-- Go to [aistudio.google.com](https://aistudio.google.com)
-- Sign in with your Google account
-- Click **"Get API key"** → **"Create API key"**
-- Copy your key
+Go to openrouter.ai → sign up free → create an API key
+Paste it in the extension → model will auto-set to openrouter/auto
+No credit card needed
+
 
 **4. Set up the extension**
 - Click the 🛡️ Focus Guard icon in your Chrome toolbar
